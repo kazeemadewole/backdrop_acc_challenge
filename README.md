@@ -4,6 +4,8 @@
 ```bash
 $ npm install
 ```
+## Environmental variable
+  There is file named example.env that will guide you on the environmental variables that is required in the application
 
 ## Running the app
 
