@@ -1,4 +1,7 @@
+ In 100 words or less, provide an answer to this in your readme: What's a good reason why the pure Levenshtein Distance algorithm might be a more effective solution than the broader Damerau–Levenshtein Distance algorithm in this specific scenario.
 
+## Answer
+ The pure Levenshtein Distance algorithm is an effective solution in this context, since it factors in the 3 possible errors that could come through human input which includes insertion, deletion and substitution, and also less compute time to broader Damerau–Levenshtein Distance algorithm which additonally includes transpostion of adjacent symbols to its computation, which is more ideal for a spelling mistake error.
 ## Installation
 
 ```bash
